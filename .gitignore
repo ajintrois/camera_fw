@@ -1,0 +1,15 @@
+CameraServer/MtxSrc/flash/
+CameraServer/MtxSrc/Src/TroisStream
+*.o
+MtxSrc/Src/AvrUtils/utils/GetTime
+CameraServer/MtxSrc/Src/Capture5M/Capture5M
+CameraServer/MtxSrc/Src/Capture8M/Capture8M
+CameraServer/Utils/ConfigEnckeyset
+CameraServer/Utils/getVersionV3
+H264Streamer/H264Streamer
+JPEG2YUV/jpeg_decode
+JPEGStreamer/JPEGRTSP
+x264Client/x264Client
+*.txt
+*.lst
+

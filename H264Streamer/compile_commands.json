@@ -1,0 +1,25 @@
+[
+	{
+		"directory": "/home/mtx003/Downloads/MediaServer720p_JP6Camera/MediaServer720p/MediaServer/RTSP/server/H264Streamer",
+		"command": "/usr/bin/g++ -c MtxH264Streamer.cpp MtxH264VideoLiveFramedSource.cpp MtxH264VideoLiveServerMediaSubsession.cpp SharedMemory.cpp -I../live_DM1/UsageEnvironment/include -I../live_DM1/groupsock/include -I../live_DM1/liveMedia/include -I../live_DM1/BasicUsageEnvironment/include -I/usr/include/opencv4 -I. -O2 -DSOCKLEN_T=socklen_t -DNO_SSTREAM=1 -D_LARGEFILE_SOURCE=1 -D_FILE_OFFSET_BITS=64 -DSO_REUSEPORT=1 -DREUSE_FOR_TCP=1 -D_FORTIFY_SOURCE=2 -Wall -DBSD=1",
+		"file": "MtxH264Streamer.cpp"
+	}
+	,
+	{
+		"directory": "/home/mtx003/Downloads/MediaServer720p_JP6Camera/MediaServer720p/MediaServer/RTSP/server/H264Streamer",
+		"command": "/usr/bin/g++ -c MtxH264Streamer.cpp MtxH264VideoLiveFramedSource.cpp MtxH264VideoLiveServerMediaSubsession.cpp SharedMemory.cpp -I../live_DM1/UsageEnvironment/include -I../live_DM1/groupsock/include -I../live_DM1/liveMedia/include -I../live_DM1/BasicUsageEnvironment/include -I/usr/include/opencv4 -I. -O2 -DSOCKLEN_T=socklen_t -DNO_SSTREAM=1 -D_LARGEFILE_SOURCE=1 -D_FILE_OFFSET_BITS=64 -DSO_REUSEPORT=1 -DREUSE_FOR_TCP=1 -D_FORTIFY_SOURCE=2 -Wall -DBSD=1",
+		"file": "MtxH264VideoLiveFramedSource.cpp"
+	}
+	,
+	{
+		"directory": "/home/mtx003/Downloads/MediaServer720p_JP6Camera/MediaServer720p/MediaServer/RTSP/server/H264Streamer",
+		"command": "/usr/bin/g++ -c MtxH264Streamer.cpp MtxH264VideoLiveFramedSource.cpp MtxH264VideoLiveServerMediaSubsession.cpp SharedMemory.cpp -I../live_DM1/UsageEnvironment/include -I../live_DM1/groupsock/include -I../live_DM1/liveMedia/include -I../live_DM1/BasicUsageEnvironment/include -I/usr/include/opencv4 -I. -O2 -DSOCKLEN_T=socklen_t -DNO_SSTREAM=1 -D_LARGEFILE_SOURCE=1 -D_FILE_OFFSET_BITS=64 -DSO_REUSEPORT=1 -DREUSE_FOR_TCP=1 -D_FORTIFY_SOURCE=2 -Wall -DBSD=1",
+		"file": "MtxH264VideoLiveServerMediaSubsession.cpp"
+	}
+	,
+	{
+		"directory": "/home/mtx003/Downloads/MediaServer720p_JP6Camera/MediaServer720p/MediaServer/RTSP/server/H264Streamer",
+		"command": "/usr/bin/g++ -c MtxH264Streamer.cpp MtxH264VideoLiveFramedSource.cpp MtxH264VideoLiveServerMediaSubsession.cpp SharedMemory.cpp -I../live_DM1/UsageEnvironment/include -I../live_DM1/groupsock/include -I../live_DM1/liveMedia/include -I../live_DM1/BasicUsageEnvironment/include -I/usr/include/opencv4 -I. -O2 -DSOCKLEN_T=socklen_t -DNO_SSTREAM=1 -D_LARGEFILE_SOURCE=1 -D_FILE_OFFSET_BITS=64 -DSO_REUSEPORT=1 -DREUSE_FOR_TCP=1 -D_FORTIFY_SOURCE=2 -Wall -DBSD=1",
+		"file": "SharedMemory.cpp"
+	}
+]
